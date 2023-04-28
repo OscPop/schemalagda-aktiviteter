@@ -1,0 +1,14 @@
+# folders to ignore
+Data/
+scheme_env/
+__pycache__/
+
+
+# files to ignore
+.env
+mail_schemalagd.bat
+SMHI_scrape.ipynb
+tester.ipynb
+veckoskrapningar.bat
+test.png
+maillista.txt
